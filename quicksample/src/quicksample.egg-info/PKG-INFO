@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: quicksample
+Version: 0.0.1
+Summary: Quicksample Test Package for SQLShack Demo
+Home-page: UNKNOWN
+Author: Aveek Das
+License: UNKNOWN
+Description: ## QuickSample
+        
+        A sample python package deployment utility for SQLShack Demo.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
